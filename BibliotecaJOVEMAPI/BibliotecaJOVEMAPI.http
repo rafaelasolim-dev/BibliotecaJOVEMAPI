@@ -1,0 +1,6 @@
+@BibliotecaJOVEMAPI_HostAddress = http://localhost:5243
+
+GET {{BibliotecaJOVEMAPI_HostAddress}}
+Accept: application/json
+
+###
